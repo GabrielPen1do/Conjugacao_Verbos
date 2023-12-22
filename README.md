@@ -1,2 +1,15 @@
 # Conjugacao_Verbos
-Este programa em C# realiza a conjugação de verbos regulares terminados em "AR" nos tempos verbais de Presente do Indicativo, Pretérito Perfeito do Indicativo e Futuro do Presente do Indicativo. 
+
+Exercício proposto:
+
+Em um verbo regular, o radical é a parte invariante, que dá origem a todas as conjugações.
+Faça um programa que leia um verbo regular terminado em “AR”, e imprima a conjugação do
+verbo nos seguintes tempos verbais:
+a) Presente do indicativo;
+b) Pretérito perfeito do indicativo;
+c) Futuro do presente do indicativo.
+Se o verbo não for terminado em “AR” imprima uma mensagem de erro.
+O programa deverá ler um verbo, processar e imprimir a sua conjunção (ou a mensagem de erro),
+depois deverá verificar se o usuário deseja informar um novo verbo. Esse processo deverá ser
+repetido até que o usuário informe “não”.
+Dica: armazene as terminações em vetores
