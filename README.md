@@ -13,3 +13,6 @@ O programa deverá ler um verbo, processar e imprimir a sua conjunção (ou a me
 depois deverá verificar se o usuário deseja informar um novo verbo. Esse processo deverá ser
 repetido até que o usuário informe “não”.
 Dica: armazene as terminações em vetores
+
+# Como acessar:
+Clone este repositório para o ambiente local.
