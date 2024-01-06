@@ -14,5 +14,5 @@ depois deverá verificar se o usuário deseja informar um novo verbo. Esse proce
 repetido até que o usuário informe “não”.
 Dica: armazene as terminações em vetores
 
-# Como acessar:
+# Como acessar 
 Clone este repositório para o ambiente local.
