@@ -14,5 +14,8 @@ depois deverá verificar se o usuário deseja informar um novo verbo. Esse proce
 repetido até que o usuário informe “não”.
 Dica: armazene as terminações em vetores
 
+![image](https://github.com/GabrielPen1do/Conjugacao_Verbos/assets/128743283/789865f7-9eb8-4b20-8385-362afa49b0cd)
+
+
 # Como acessar 
 Clone este repositório para o ambiente local.
